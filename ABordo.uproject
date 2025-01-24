@@ -34,14 +34,6 @@
 			]
 		},
 		{
-			"Name": "MetaHuman",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
-			]
-		},
-		{
 			"Name": "LiveLinkControlRig",
 			"Enabled": true
 		},
@@ -59,15 +51,6 @@
 		{
 			"Name": "HairStrands",
 			"Enabled": true
-		},
-		{
-			"Name": "OculusPlatform",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/7ce814580ba341b4bb5865983fea9d31",
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android"
-			]
 		}
 	],
 	"AdditionalPluginDirectories": [
